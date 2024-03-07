@@ -8,7 +8,7 @@ Works in Growtopia V4.51 Updated to V1.4 ---> 07.03.2024
 -added autocollect /autocollect
 
 # How to Download and Install
-*Download the file from the main branch (Matzy Autofarm V1.4)*
+*Download the file from the main branch (Autofarm V1.4)*
 
 or
 
