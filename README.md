@@ -2,7 +2,7 @@
 Autofarming tool for Growtopia. Made for BFG but can be used for other stuff also.
 
 ### Matzy Autofarm V1.4
-Works in Growtopia V4.51 Updated to V1.4 ---> 07.03.2024
+Works in Growtopia V4.51 Updated to V1.4 ---> 07.03.2024.
 
  NEW IN VERSION V1.4
 -added autocollect /autocollect
